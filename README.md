@@ -22,7 +22,7 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/pube1/phoneDirectory.git
+   git clone https://github.com/pube1/Phone-Contacts0.git
    
 2. Open the project in Visual Studio.
 3. Install the necessary dependencies and build the project.
